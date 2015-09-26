@@ -7,6 +7,7 @@ import (
 	"github.com/gorilla/context"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
+	"github.com/julienschmidt/httprouter"
 	"html/template"
 	"log"
 	"net/http"
